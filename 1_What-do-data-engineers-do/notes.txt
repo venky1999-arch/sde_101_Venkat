@@ -1,0 +1,6 @@
+My basic understanding of data engineers is that they are sort of the middle men between the development and devops teams and the data science and ml teams. They are the data enablers who streamline data that are extracted using various database management apps such as MySQL,postgresql etc from the source systems which can range from applications(web,mobile) , IOT's and transform them using any programming   and load them back into larger database for further use by data scientists and ai and ml engineers.
+
+The work of the data engineer can be classified under extract , transform and load operations.
+Extraction tools can range from sql tools such as mysqlostgresql,duckdb etc.
+Transformation can be done using programming languages such as python,java etc to ensure it follows acid properties.
+Loading is performed into various places ranging from warehouse,lakes etc.
